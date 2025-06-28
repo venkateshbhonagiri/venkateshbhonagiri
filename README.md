@@ -40,19 +40,19 @@
 > As a UI/Front-End Developer, I actively contribute to my company's growth by crafting clean, scalable, and accessible front-end applications. I'm passionate about continual learning—especially in front-end technologies—and take pride in writing quality code and thorough documentation.
 
 ### 💡 My Current Goals:
+- Building reusable Angular components from scratch
 - Learning **ReactJS**
 - Improving accessibility using **WCAG guidelines**
-- Building reusable Angular components from scratch
 
 ---
 
 ## 🛠️ Tools & Platforms
 
 - **Agile/DevOps**: Jira, Azure, Jenkins  
-- **Cloud Services**: Heroku, Azure  
+- **Cloud Services**: Azure  
 - **API Tools**: Swagger  
-- **Repo Management**: Nexus, GitHub, GitLab, Bitbucket  
-- **Other Utilities**: Gulp, Babel, NPM, Mlab, Atlassian  
+- **Repo Management**: Azure Devops, Nexus, GitHub, GitLab, Bitbucket  
+- **Other Utilities**: Gulp, Babel, NPM, Atlassian  
 
 ---
 
@@ -60,11 +60,8 @@
 
 - Custom reusable Angular components (Modal, Dropdowns, Tooltips, etc.)
 - Third-party libraries: ag-Grid, Highcharts, Angular Material
-- UI prototyping in Photoshop
 - Mastery of HTML5, CSS3, SASS, JS (ES5/ES6), Typescript
 - WCAG-compliant accessible development
-- Familiarity with AEM Front-End theming
-
 ---
 
 ## 📫 Get in Touch
